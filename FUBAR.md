@@ -16,3 +16,8 @@ What does FUBAR mean?
 What will you build today Bob?
 
 Can you fix it Bob?
+
+### Fubar
+
+Does Ted stand for Teddy Pendergrass?
+I loove your music!!!
