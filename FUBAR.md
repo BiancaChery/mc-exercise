@@ -17,6 +17,12 @@ What will you build today Bob?
 
 Can you fix it Bob?
 
+### FUBAR
+
+"This is what Bob & Alice did on Alice's computer when working on the second feature".
+
+"Now Carol, you're pissing me off"
+
 ### Fubar
 
 Does Ted stand for Teddy Pendergrass?
