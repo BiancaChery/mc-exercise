@@ -6,6 +6,11 @@ CAROOOOLLLL
 
 What does FUBAR mean?
 
+## FUBAR
+
+"I get to do a feature from my laptop?"
+"That's cool CAROL!"
+
 ## Fubar
 
 What will you build today Bob?
